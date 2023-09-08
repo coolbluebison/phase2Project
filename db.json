@@ -1,0 +1,31 @@
+{
+  "formData": [
+    {
+      "id": 1,
+      "NRI-Before-Payout": "82.5",
+      "WI-Before-Payout": "100",
+      "NRI-After-Payout": "82.5",
+      "WI-After-Payout": "100",
+      "NYMEX-Oil-Pricing-Deduct": "3",
+      "Oil-Transportation-Cost": "3",
+      "Oil-Processing-Cost": "1",
+      "Hhub-Gas-Pricing-Deduct": "0.5",
+      "Gas-Transportation-Cost": "0.5",
+      "Gas-Processing-Cost": "0.2",
+      "Severance-Tax": "4%",
+      "Ad-Valorem-Tax": "4%",
+      "Monthly-Well-Operation-Cost": "3",
+      "Drilling-Costs": "1000",
+      "Completion-Costs": "1000",
+      "Facilities-Costs": "1000",
+      "Pipeline-Costs": "1000",
+      "Contingency-Costs": "1000",
+      "Avg-Oil-Price-During-Period": "50",
+      "Avg-Gas-Price-During-Period": "3",
+      "Initial-Production-Rate-Oil": "750",
+      "Initial-Production-Rate-Gas": "1500",
+      "Monthly-Oil-Production-Decline-Rate": "6%",
+      "Monthly-Gas-Production-Decline-Rate": "6%"
+    }
+  ]
+}
